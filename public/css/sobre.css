@@ -1,0 +1,100 @@
+body{font-family: 'Titillium Web', sans-serif;
+    overflow-x: hidden;
+ }
+
+.navbar{
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, .05);
+    min-height: 100px;
+}
+
+.nav-link{color: black;}
+.nav-link:hover{color: #3090C7;}
+
+.dropdown-item:hover{color: #3090C7;}
+
+.logo{
+    width: 250px;
+    height: 80px;
+}
+
+.navbar-toggler{ font-size: 40px;}
+.navbar-toggler:focus{ outline: none;}
+
+  footer{
+      margin-top: 150px;
+  }
+
+  .footer-top{
+      background-color: #3090C7
+  }
+
+  .footer-bot{
+      padding: 60px;
+  }
+
+  .foto{
+    position: absolute;
+    top: 35%;
+    left: 5%;
+  }
+
+@media (max-width: 575.98px) {
+  .row{
+    margin-right: 10px !important; 
+    margin-left: -10px !important;
+  }
+
+  .foto{
+    width: 325px !important; 
+    height: 225px !important;
+    margin-top: 20px;
+  }
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  .row{
+    margin-right: 10px !important; 
+    margin-left: -10px !important;
+  }
+
+  .foto{
+    width: 325px !important; 
+    height: 225px !important;
+    margin-top: 20px;
+  }
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+  .row{
+    margin-right: 10px !important; 
+    margin-left: -10px !important;
+  }
+
+  .foto{  
+    width: 450px !important; 
+    height: 350px !important;
+    position: absolute;
+    margin-top: 20px;
+    top: 0%;
+    right: 15%;
+  }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .foto{  
+    width: 450px !important; 
+    height: 350px !important;
+    margin-top: 20px;
+    position: absolute;
+    top: 0%;
+    right: 15%;
+  }
+}
+
+@media (min-width: 1200px) {
+ 
+}

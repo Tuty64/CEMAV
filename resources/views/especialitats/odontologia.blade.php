@@ -27,12 +27,10 @@
   <section id="portada">
     <div class="container">
       <div class="content-center">
-        <h1 style="position: absolute; top: 25%; left: 5%;">ODONTOLOGIA</h1>
+        <h1 id="titol" style="position: absolute; top: 25%; left: 5%;">ODONTOLOGIA</h1>
        </div>
     </div>
   </section>
- 
-
   
   <section id="professionals">
     <div class="container">

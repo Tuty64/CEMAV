@@ -34,7 +34,7 @@
   
   <section id="professionals">
     <div class="container">
-      <div style="margin: 100px 50px 50px 50px; font-size: 20px; text-align: center">
+      <div style="margin: 100px 50px 50px 50px; font-size: 20px; text-align: justify">
       Servei d’odontologia mitjançant mútues assistencials i visites privades.
     Implants dentals. Pròtesis dentals. Endodòncia. Periodòncia. Estètica
     dental. Blanquejament dental. Ortodòncia correctiva (braquets estètics,

@@ -35,7 +35,7 @@
   
   <section id="professionals">
     <div class="container">
-      <div style="margin: 100px 50px 50px 50px; font-size: 20px; text-align: center">
+      <div style="margin: 100px 50px 50px 50px; font-size: 20px; text-align: justify">
       Servei de traumatologia mitjançant mútues assistencials i visites
         privades. Atenció personalitzada de pacients amb patologia traumàtica,
         congènita o ortopèdica de l’aparell locomotor. Valoració clínica,

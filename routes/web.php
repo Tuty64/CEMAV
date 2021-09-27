@@ -100,6 +100,10 @@ Route::get('/revisions', function () {
     return view('serveis/revisions');
 });
 
+Route::get('/serveis', function () {
+    return view('serveis/serveis');
+});
+
 /* Rutes Mutues*/ 
 
 Route::get('/mutues', function () {

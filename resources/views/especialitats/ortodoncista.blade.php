@@ -35,7 +35,7 @@
   
   <section id="professionals">
     <div class="container">
-     <div style="margin: 100px 50px 50px 50px; font-size: 20px; text-align: center">
+     <div style="margin: 100px 50px 50px 50px; font-size: 20px; text-align: justify">
       Ortodòncia correctiva (braquets estètics, ortodòncia lingual). Maloclusions (mossegada creuada, mossegada oberta, etc). Ortodòncia interceptiva – ortopèdia infantil (correcció de l’amplària, longitud i o altura dels maxil·lars). Correcció d’hàbits per evitar mala oclusió.
       </div>
       <div class="content-center" style="margin-top: 50px">

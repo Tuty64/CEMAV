@@ -35,7 +35,7 @@
   
   <section id="professionals">
     <div class="container">
-    <div style="margin: 100px 50px 50px 50px; font-size: 20px; text-align: center">
+    <div style="margin: 100px 50px 50px 50px; font-size: 20px; text-align: justify">
         Servei de Urologia i andrologia mitjançant mútues assistencials i visites
         privades. Diagnòstic i tractament de malalties urològiques i o de salut
         sexual. Patologia oncològica. Infeccions urinàries. Malalties de

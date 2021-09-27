@@ -35,7 +35,7 @@
   
   <section id="professionals">
     <div class="container">
-    <div style="margin: 100px 50px 50px 50px; font-size: 20px; text-align: center">
+    <div style="margin: 100px 50px 50px 50px; font-size: 20px; text-align: justify">
       Analítiques. Revisions laborals. Aplicació d'injectables. Mesura de la pressió arterial. 
       </div>
       <div class="content-center" style="margin-top: 50px">

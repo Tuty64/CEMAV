@@ -35,7 +35,7 @@
   
   <section id="professionals">
     <div class="container">
-      <div style="margin: 100px 50px 50px 50px; font-size: 20px; text-align: center">
+      <div style="margin: 100px 50px 50px 50px; font-size: 20px; text-align: justify">
         Servei de Fisioteràpia mitjançant mútues assistencials i visites privades.
         Fisioteràpia en general. Prevenció i tractament de lesions esportives o
         lesions en general. Tractaments de l’ ATM (articulació temporo-

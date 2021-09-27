@@ -35,7 +35,7 @@
   
   <section id="professionals">
     <div class="container">
-    <div style="margin: 100px 50px 50px 50px; font-size: 20px; text-align: center">
+    <div style="margin: 100px 50px 50px 50px; font-size: 20px; text-align: justify">
         Servei d’oftalmologia per mútues assistencials i visites privades.
         Diagnòstic, tractament i prevenció de les patologies relacionades amb
         els ulls i la visió. Exploració visual. Diagnòstic de malalties oculars.

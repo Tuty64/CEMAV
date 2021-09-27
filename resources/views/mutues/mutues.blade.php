@@ -27,7 +27,7 @@
 
     <div class="row">
         <div class="col-12 col-sm-3 col-md-2">
-            <img src="img/Mutues/adeslas.png" class="foto" alt="foto" style="width: 200px; height: 150px; margin: 120px 100px 50px 100px">
+            <img src="img/Mutues/adeslas.jpg" class="foto" alt="foto" style="width: 200px; height: 150px; margin: 120px 100px 50px 100px">
         </div>
         <div class="col-12 col-sm-3 col-md-2">
             <img src="img/Mutues/AEGON.jpg" class="foto" alt="foto" style="width: 200px; height: 150px; margin: 120px 100px 50px 100px">

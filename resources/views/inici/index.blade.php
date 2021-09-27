@@ -91,7 +91,7 @@
                 </a>
             </div>
             <div class="col-12 col-md-2 container-departaments">
-                <img src="img/Medicina Amable.jpg" onclick="javascript:window.location='{{URL::to('/digestoleg')}}';" alt="departament 1" class="img-dep">
+                <img src="img/Digestoleg.png" onclick="javascript:window.location='{{URL::to('/digestoleg')}}';" alt="departament 1" class="img-dep">
                 <a href="{{URL::to('/digestoleg')}}" class="title-dep">
                     </br><span class="title-dep">Cirugia Digestòleg</span>
                 </a>
@@ -131,42 +131,6 @@
                 </a>
             </div>
         </div>
-
-       {{-- <div class="linea"></div> --}}
-       
-       {{--
-        <div class="row" id="especialitats_titol">
-          <div class="col-md-12" style="text-align:center;">
-             <h1 style="margin-top: 50px">Serveis</h1>
-          </div>
-        </div>
-        <div class="row" id="especialitats">
-            <div class="col-12 col-md-3 container-departaments">
-                <img src="img/DepilacioLaser.jpg" onclick="javascript:window.location='{{URL::to('/depilació')}}';" alt="departament 1" class="img-dep">
-                <a href="{{URL::to('/depilació')}}" class="title-dep">
-                    </br><span class="title-dep">Depilaciò làser</span>
-                </a>
-            </div>
-            <div class="col-12 col-md-3 container-departaments">
-                <img src="img/RevisionsMèdiques.jpg" onclick="javascript:window.location='{{URL::to('/revisions')}}';" alt="departament 1" class="img-dep">
-                <a href="{{URL::to('/revisions')}}" class="title-dep">
-                    </br><span class="title-dep">Revisions mèdiques i laborals</span>
-                </a>
-            </div>
-            <div class="col-12 col-md-3 container-departaments">
-                <img src="img/analitiques.png" onclick="javascript:window.location='{{URL::to('/analitiques')}}';" alt="departament 1" class="img-dep">
-                <a href="{{URL::to('/analitiques')}}" class="title-dep">
-                    </br><span class="title-dep">Servei d'analìtiques</span>
-                </a>
-            </div>
-            <div class="col-12 col-md-3 container-departaments">
-                <img src="img/analitiques.png" onclick="javascript:window.location='{{URL::to('/analitiquesCovid')}}';" alt="departament 1" class="img-dep">
-                <a href="{{URL::to('/analitiquesCovid')}}" class="title-dep">
-                    </br><span class="title-dep">Servei d'analìtiques COVID</span>
-                </a>
-            </div>
-        </div>
-        --}}
     </div>
   @include('includes.footer')
 

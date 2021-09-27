@@ -35,7 +35,7 @@
   
   <section id="professionals">
     <div class="container">
-    <div style="margin: 100px 50px 50px 50px; font-size: 20px; text-align: center">
+    <div style="margin: 100px 50px 50px 50px; font-size: 20px; text-align: justify">
           Servei d’optometria mitjançant mútues assistencials i visites privades.
           Prevenció i detecció de problemes visuals. Detecció de pèrdua visual.
           Trastorns visuals refractius i la seva correcció. Prescripció i adaptació
